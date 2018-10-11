@@ -3,10 +3,10 @@
 ---------------------------<br>
 目录<br>
 ### 一、Introduction<br>
-    1.Human learning vs machine learning vs deep learning <br>
-    2.Supervised learning & Semi-supervised learning & unsupervised learning <br>
-    3.Structured learning & transfer learning & Multi-task learning<br>
+    1.Human learning vs machine learning vs deep learning 
+    2.Supervised learning & Semi-supervised learning & unsupervised learning 
+    3.Structured learning & transfer learning & Multi-task learning
 ### 二、Regression<br>
-    1.Linear regression<br>
-    2.Gradient descent<br>
-    3.Logistic regression<br>
+    1.Linear regression
+    2.Gradient descent
+    3.Logistic regression
